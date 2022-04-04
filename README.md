@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jraynaldi3
 - 👀 I’m interested in Solidity and Web3 in common 
-- 🌱 I’m currently learning Solidity and React.js
+- 🌱 I’m currently learning Solidity and MERN(MongoDB, Expressjs, Reactjs, Nodejs) Stack
 - 💞️ I’m looking to collaborate on Web3 project
 - 📫 How to reach me? email here crazy_gentong@hotmail.com
 
