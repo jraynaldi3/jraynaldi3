@@ -8,10 +8,10 @@
 currently Learning on various website about web3. moving forward everyday with the progress. 
 
 <a href="#">
-  <img align="center" height="137px" src="https://github-readme-stats.vercel.app/api?username=jraynaldi3&show_icons=true&theme=dark" />
+  <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=jraynaldi3&show_icons=true&theme=dark" />
 </a>
 <a href="#">
-  <img align="center" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jraynaldi3&theme=dark" />
+  <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jraynaldi3&theme=dark" />
 </a>
 
   <!---
