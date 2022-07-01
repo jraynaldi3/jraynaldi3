@@ -1,9 +1,9 @@
 
 - 👋 Hi, I’m @jraynaldi3
-- 👀 I’m interested in Solidity and Web3 in common 
-- 🌱 I’m currently learning Solidity and MERN(MongoDB, Expressjs, Reactjs, Nodejs) Stack
-- 💞️ I’m looking to collaborate on Web3 project
-- 📫 How to reach me? email here crazy_gentong@hotmail.com
+- 👀 I’m interested in Solidity and Smart Contract Security
+- 🌱 I’m currently learning Solidity and Smart Contract Security 
+- 💞️ I’m looking to Bug Bounty and On demand Audit 
+- 📫 reach me on <a href=LinkedIn or Twitter
 
 currently Learning on various website about web3. moving forward everyday with the progress. 
 
