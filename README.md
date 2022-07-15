@@ -3,7 +3,7 @@
 - 👀 I’m interested in Solidity and Smart Contract Security
 - 🌱 I’m currently learning Solidity and Smart Contract Security 
 - 💞️ I’m looking to Bug Bounty and On demand Audit 
-- 📫 reach me on <a href=LinkedIn or Twitter
+- 📫 reach me on <a href=https://www.linkedin.com/in/juliusraynaldi/>LinkedIn</a> 
 
 currently Learning on various website about web3. moving forward everyday with the progress. 
 
