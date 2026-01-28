@@ -3,7 +3,7 @@
 - 👀 I’m interested in Solidity and Smart Contract Security, especially in Formal Verification
 - 🌱 I’m currently learning Formal Verification
 - 💞️ I’m looking to Bug Bounty, On demand Audit, Formal Verification
-- 📫 reach me on <a href=https://www.linkedin.com/in/juliusraynaldi/>LinkedIn</a> and [X](https://x.com/juliusraynaldi)
+- 📫 reach me on  [X](https://x.com/juliusraynaldi)
 
 Here my Formal Verification Portfolio 
 https://github.com/jraynaldi3/Formal-Verification-Portfolio/
